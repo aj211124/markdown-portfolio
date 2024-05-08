@@ -8,4 +8,3 @@
   6. Deep understanding of algorithms and data structures.
   7. Hands-on experience with Azure and exposure to deployment processes and CI/CD tools.
   8. Experience in Agile/Scrum methodologies for seamless team collaboration.
-###### This is an <h6> header, which is the smallest
